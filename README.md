@@ -1,8 +1,8 @@
 # Morse-Master
 An Iot project to communicate in morse code and also message using internet <br>
 
-Download the given Blynk library under MIT lisence <br>
-"C:\Users\YOUR_NAME\Documents\Arduino\libraries" go to this location and pate the library here <br>
+<a href = "">blynk library github link , download v1.0.1.zip<\a>
+<a href = "">Youtube reference for downloading libraries script modification , run and general setup tutorial<\a>
 
 Step1 - Make connections as per the Diagram <br>
 Step2 - Create template on blynk and paste its ID , Token and authorisation string in the source Code <br>
